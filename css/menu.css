@@ -143,7 +143,13 @@ div.top {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
+    display: flex;	
+    flex-wrap: wrap;	
+}	
+.menuBox{	
+    width: 50%;	
+}	
+
 
 /* footer section */
 footer {
